@@ -9,7 +9,7 @@ import streamlit.components.v1 as components
 # 1. STREAMLIT CONFIGURATION
 # -----------------------------------------------------------------------------
 st.set_page_config(
-    page_title="Smart Patient Monitor — Nurse Station",
+    page_title="OmniWard AI",
     page_icon="🏥",
     layout="wide",
     initial_sidebar_state="collapsed"
