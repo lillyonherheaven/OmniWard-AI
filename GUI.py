@@ -291,7 +291,7 @@ current_time_str = datetime.now().strftime("%Y-%m-%d • %H:%M:%S")
 HEADER_HTML = f"""
 <div class="nurse-nav-bar">
     <div class="nurse-nav-title">
-        <span>🏥</span> Smart Patient Monitor — Nurse Station
+        <span>🏥</span> OmniWard AI
     </div>
     <div class="nurse-nav-meta">
         <span class="shift-pill">🌙 Shift: Night</span>
